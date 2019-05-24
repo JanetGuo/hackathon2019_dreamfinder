@@ -1,0 +1,7 @@
+# virtualenv
+topic_venv
+
+# code editor specific files
+.vscode
+
+*.xlsx
